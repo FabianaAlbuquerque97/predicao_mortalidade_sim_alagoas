@@ -26,6 +26,14 @@ A mortalidade infantil é um importante indicador de saúde pública e qualidade
 - Identificação das principais variáveis preditoras como peso ao nascer, tipo de parto e idade média.
 - Simulação interativa para visualização do risco municipal projetado para 2025.
 
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+Links das bases de dados:
+
+Natalidade: http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinasc/cnv/nval.def
+
+Mortalidade: https://opendatasus.saude.gov.br/dataset/sim/resource/9ade641a-1f25-40d9-b55b-cff7096eb5b4?
+
 
 ## Tecnologias
 
